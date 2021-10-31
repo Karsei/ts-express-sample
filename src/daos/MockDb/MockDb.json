@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Sean Maxwell",
+      "email": "sean.maxwell@gmail.com",
+      "id": 159123164363
+    },
+    {
+      "name": "Karsei",
+      "email": "karseidev@gmail.com",
+      "id": 123123123123
+    },
+    {
+      "name": "홍길동",
+      "email": "mrhong@asdfadsf.com",
+      "id": 456456456456
+    }
+  ]
+}
